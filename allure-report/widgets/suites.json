@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"215b1ff16fb0a3146c2c0da07d710737","name":"test_reddiffmailSendMail","statistic":{"failed":0,"broken":1,"skipped":0,"passed":1,"unknown":0,"total":2}},{"uid":"05dc5d9c610227c20d648d94d09595fc","name":"test_rediffmailSaveMail","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}

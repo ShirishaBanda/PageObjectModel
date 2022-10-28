@@ -1,0 +1,22 @@
+2022-10-27 17:37:57,623 - test_reddiffmailSendMail.py:[57] - [INFO] - Test to Sign up finished - Send Mail
+2022-10-27 17:38:10,238 - test_reddiffmailSendMail.py:[62] - [INFO] - Test to send mail over
+2022-10-27 17:38:34,964 - test_reddiffmailSendMail.py:[57] - [INFO] - Test to Sign up finished - Send Mail
+2022-10-27 17:38:46,879 - test_reddiffmailSendMail.py:[62] - [INFO] - Test to send mail over
+2022-10-27 17:39:09,574 - test_rediffmailSaveMail.py:[37] - [INFO] - Test to Sign up finished - Save Mail
+2022-10-27 17:49:56,439 - test_rediffmailSaveMail.py:[37] - [INFO] - Test to Sign up finished - Save Mail
+2022-10-27 21:42:20,042 - test_reddiffmailSendMail.py:[57] - [INFO] - Test to Sign up finished - Send Mail
+2022-10-27 21:42:31,668 - test_reddiffmailSendMail.py:[62] - [INFO] - Test to send mail over
+2022-10-27 21:42:56,157 - test_reddiffmailSendMail.py:[57] - [INFO] - Test to Sign up finished - Send Mail
+2022-10-27 21:43:16,924 - test_reddiffmailSendMail.py:[62] - [INFO] - Test to send mail over
+2022-10-27 21:43:43,603 - test_rediffmailSaveMail.py:[37] - [INFO] - Test to Sign up finished - Save Mail
+2022-10-27 21:43:52,715 - test_rediffmailSaveMail.py:[41] - [INFO] - Test to save mail over
+2022-10-27 21:44:15,382 - test_rediffmailSaveMail.py:[37] - [INFO] - Test to Sign up finished - Save Mail
+2022-10-27 21:44:24,326 - test_rediffmailSaveMail.py:[41] - [INFO] - Test to save mail over
+2022-10-27 22:11:12,459 - test_reddiffmailSendMail.py:[57] - [INFO] - Test to Sign up finished - Send Mail
+2022-10-27 22:11:25,152 - test_reddiffmailSendMail.py:[62] - [INFO] - Test to send mail over
+2022-10-27 22:11:50,007 - test_reddiffmailSendMail.py:[57] - [INFO] - Test to Sign up finished - Send Mail
+2022-10-27 22:15:01,941 - test_reddiffmailSendMail.py:[62] - [INFO] - Test to send mail over
+2022-10-27 22:16:29,701 - test_rediffmailSaveMail.py:[37] - [INFO] - Test to Sign up finished - Save Mail
+2022-10-27 22:16:39,205 - test_rediffmailSaveMail.py:[41] - [INFO] - Test to save mail over
+2022-10-27 22:17:01,581 - test_rediffmailSaveMail.py:[37] - [INFO] - Test to Sign up finished - Save Mail
+2022-10-27 22:17:10,395 - test_rediffmailSaveMail.py:[41] - [INFO] - Test to save mail over
